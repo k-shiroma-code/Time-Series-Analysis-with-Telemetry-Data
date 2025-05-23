@@ -11,7 +11,6 @@ Telemetry data consists of time-stamped readings from remote sensors or systems.
 
 ## Dataset
 
-- **Source**: [Specify source or describe dataset, e.g., synthetic, public domain, etc.]
 - **Structure**:
   - `timestamp`: Date and time of the measurement
   - `sensor_id`: Identifier for the sensor/device
