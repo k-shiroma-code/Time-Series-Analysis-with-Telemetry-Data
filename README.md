@@ -53,3 +53,7 @@ Telemetry data consists of time-stamped readings from remote sensors or systems.
 - ARIMA achieved a mean absolute error (MAE) of X.XX.
 - LSTM model reduced MAE to Y.YY, showing improvement over traditional methods.
 - Anomaly detection identified significant deviations that correspond with known operational events.
+
+## Full Dataset Access
+Due to file size, the full dataset is available here: https://drive.google.com/file/d/1msoHHUdk6BxagJmaN8rGrY7JMt7xF1fA/view?usp=drive_link
+
