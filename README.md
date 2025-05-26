@@ -1,6 +1,6 @@
 # Telemetry Time Series Analysis (In Progress)
 
-This project analyzes telemetry data using time series techniques to identify patterns, detect anomalies, and develop forecasting models. The work demonstrates core skills in time series preprocessing, exploratory data analysis (EDA), classical and deep learning modeling, and anomaly detection.
+A friend at Norco Rocketry sent me hotfire telemetry data in the form of a raw csv. This project analyzes telemetry data using time series techniques to identify patterns, detect anomalies, and develop forecasting models. The work demonstrates core skills in time series preprocessing, exploratory data analysis (EDA), classical and deep learning modeling, and anomaly detection.
 
 ## Project Overview
 
